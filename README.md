@@ -1,9 +1,11 @@
 # Retricia
 A place to look for vintage games of our childhood. Look for shows we used to have and watch them with a single click. 
 
+
+
 **Website Link** : https://retricia.netlify.app/
 
-**Additional Info** : This project was selected as [**First Overall**](https://devpost.com/software/retricia) in Snakes and Hackers hackathon by Major League Hacking.
+**Additional Info** : This project was selected as [**First Overall**](https://devpost.com/software/retricia) in Snakes and Hackers hackathon by Major League Hacking. It was built with team of **Random Strangers**.
 
 ![retricia](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/329/166/datas/gallery.jpg)
 
