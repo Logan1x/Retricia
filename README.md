@@ -38,3 +38,6 @@ We used HMTL and CSS for the front-end part, and all the games are written only 
 - chat for in-game.
 - Taking user feedback and work on it.
 
+## How to run locally(In docker)
+- `docker build -t webserver-image:v1 .`
+- `docker run -d -p 80:80 webserver-image:v1`
