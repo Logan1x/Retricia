@@ -1,7 +1,7 @@
 
 body {
   background: #111;
-  font-family: "Lato", "Lucida Grande","Lucida Sans Unicode", Tahoma, Sans-Serif;
+  /* font-family: "Lato", "Lucida Grande","Lucida Sans Unicode", Tahoma, Sans-Serif; */
   user-select: none;
   min-width: 420px;
 }
